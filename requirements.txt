@@ -1,0 +1,8 @@
+undetected-chromedriver
+pyautogui
+setuptools
+openai
+python-dotenv
+selenium
+jinja2
+pandas
